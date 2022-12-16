@@ -1,4 +1,3 @@
-# code-refractor-HW
 HTML has been updated from original to match current HTML5 standards.
 
 Linked CSS has been updated and consolidated for efficiency.
